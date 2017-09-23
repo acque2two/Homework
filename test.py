@@ -1,1 +1,1 @@
-print("Hello, Python's darkness world!")
+print("Hello, Python's light world!")
